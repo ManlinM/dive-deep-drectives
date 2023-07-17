@@ -6,5 +6,11 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'dive-deep-drectives';
+ numbers=[1,2,3,4];
+ oddNumbers=[1,3,5,6];
+ evenNumbers=[2,4];
+ 
+ onlyOdd = false;
+
+ value=10;
 }
