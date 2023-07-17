@@ -1,3 +1,4 @@
+# What I learned
 [ngClass]
 use CSS class as key, then boolean value follows
 if true, will apply CSS accordingly
